@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Sky_Sports_logo.svg/1200px-Sky_Sports_logo.svg.png",
+    "title": "Sky Sports",
+    "category": "Sports Streaming",
+    "link": "https://www.skysports.com/live-scores"
+  },
+  {
+    "id": "2",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6d/ESPN_wordmark.svg",
+    "title": "ESPN",
+    "category": "Sports Streaming",
+    "link": "https://www.espn.com/watch/"
+  },
+  {
+    "id": "3",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BT_Sport_logo.svg",
+    "title": "BT Sport",
+    "category": "Sports Streaming",
+    "link": "https://sport.bt.com/"
+  },
+  {
+    "id": "4",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/8a/DAZN_Logo.svg",
+    "title": "DAZN",
+    "category": "Sports Streaming",
+    "link": "https://www.dazn.com/"
+  },
+  {
+    "id": "5",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Fox_Sports_logo.svg/1200px-Fox_Sports_logo.svg.png",
+    "title": "Fox Sports",
+    "category": "Sports Streaming",
+    "link": "https://www.foxsports.com/live"
+  }
+]
