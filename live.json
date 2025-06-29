@@ -1,35 +1,35 @@
 [
   {
     "id": "1",
-    "logo": "https://imgs.search.brave.com/Z4dS5F8nSjelN7wIGuH-EP9Ud29U7T20Xs7etuXpX2c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3Mvcy8y/NC9za3ktc3BvcnRz/LnBuZw",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
     "title": "Sky Sports",
     "category": "Sports",
     "link": "https://www.skysports.com/live-scores"
   },
   {
     "id": "2",
-    "logo": "https://imgs.search.brave.com/ev08v3S2K6GKixM5y-2LNRAW9QZC14q5lhZrdmeDUd8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2VzcG4tcG5nLWxv/Z28vZXNwbi1sb2dv/LWVzcG4tc3ltYm9s/LW1lYW5pbmctcG5n/LWxvZ28tMC5wbmc",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
     "title": "ESPN",
     "category": "Kids",
     "link": "https://www.espn.com/watch/"
   },
   {
     "id": "3",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/BT_Sport_logo.svg",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
     "title": "BT Sport",
     "category": "Entertainment",
     "link": "https://sport.bt.com/"
   },
   {
     "id": "4",
-    "logo": "https://imgs.search.brave.com/6DUGbnPg7VyOr47o2hC6zgy82Xu9PO12X0gEYcfkg-8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9qaW90/dmltYWdlcy5jZG4u/amlvLmNvbS9kYXJl/X2ltYWdlcy9pbWFn/ZXMvVGVuMl9IRC5w/bmc",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
     "title": "DAZN",
     "category": "Sports Streaming",
     "link": "https://www.dazn.com/"
   },
   {
     "id": "5",
-    "logo": "https://imgs.search.brave.com/WdJ0pa5GpkgJJpZ8FUylxpwbR7uUXPGb6k3Y7i2IIys/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXNob3QubGl2/ZS91cGxvYWQvc291/cmNlL2ZveC1zcG9y/dHMtNTAxLWF1LWxv/Z28ucG5n",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
     "title": "Fox Sports",
     "category": "Sports",
     "link": "https://www.foxsports.com/live"
