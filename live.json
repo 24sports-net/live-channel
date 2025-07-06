@@ -1,37 +1,107 @@
 [
   {
     "id": "1",
-    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
-    "title": "Sky Sports",
+    "logo": "https://i.postimg.cc/J07jmV86/IMG-20250702-234122-569.jpg",
+    "title": "Star Sports 1 HD",
     "category": "Sports",
-    "link": "https://topembed.pw/channel/SkySportsFootball[UK]"
+    "link": "https://24sports-net.blogspot.com/?id=1"
   },
   {
     "id": "2",
-    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
-    "title": "ESPN",
-    "category": "Kids",
-    "link": "https://topembed.pw/channel/SkySportsCricket[UK]"
+    "logo": "https://i.postimg.cc/Z5JPxdXt/IMG-20250702-234118-805.jpg",
+    "title": "Star Sports 1 HD HINDI",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=2"
   },
   {
     "id": "3",
-    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
-    "title": "BT Sport",
-    "category": "Entertainment",
-    "link": "https://topembed.pw/channel/SkySportsTennis[UK]"
+    "logo": "https://i.postimg.cc/1XCS76MC/IMG-20250702-234120-973.jpg",
+    "title": "Star Sports 2 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=3"
   },
   {
     "id": "4",
-    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png",
-    "title": "DAZN",
-    "category": "Sports Streaming",
-    "link": "https://24sports-play.blogspot.com"
+    "logo": "https://i.postimg.cc/wv1nxPkV/Picsart-25-07-02-23-22-40-547.jpg",
+    "title": "Star Sports 3 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=4"
   },
   {
     "id": "5",
-    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png",
-    "title": "Fox Sports",
+    "logo": "https://i.postimg.cc/HLB6y2Lh/IMG-20250702-234100-565.jpg",
+    "title": "Star Sports TAMIL",
     "category": "Sports",
-    "link": "https://i041mnv8.live.codepad.app/?24spn=https://www.foxsports.com/live"
+    "link": "https://24sports-net.blogspot.com/?id=5"
+  },
+  {
+    "id": "6",
+    "logo": "https://i.postimg.cc/yNmfqrsZ/Picsart-25-07-05-20-17-15-816.png",
+    "title": "Sony Sports Ten 1 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=6"
+  },
+  {
+    "id": "7",
+    "logo": "https://i.postimg.cc/j25v7xNH/Picsart-25-07-05-20-17-36-450.png",
+    "title": "Sony Sports Ten 2 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=7"
+  },
+  {
+    "id": "8",
+    "logo": "https://i.postimg.cc/RhDd1kQj/Picsart-25-07-05-20-18-02-561.png",
+    "title": "Sony Sports Ten 3 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=8"
+  },
+  {
+    "id": "9",
+    "logo": "https://i.postimg.cc/c19FN3yX/Picsart-25-07-05-20-18-18-767.png",
+    "title": "Sony Sports Ten 4 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=9"
+  },
+  {
+    "id": "10",
+    "logo": "https://i.postimg.cc/BnDpDw8V/Picsart-25-07-05-20-18-37-389.png",
+    "title": "Sony Sports Ten 5 HD",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=10"
+  },
+  {
+    "id": "11",
+    "logo": "https://i.postimg.cc/3rFHjnGW/Picsart-25-07-05-20-15-29-654.png",
+    "title": "Sony Sports Ten 1",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=11"
+  },
+  {
+    "id": "12",
+    "logo": "https://i.postimg.cc/T3ySs9KV/Picsart-25-07-05-20-15-51-577.png",
+    "title": "Sony Sports Ten 2",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=12"
+  },
+  {
+    "id": "13",
+    "logo": "https://i.postimg.cc/pTv6pMqC/Picsart-25-07-05-20-16-09-630.png",
+    "title": "Sony Sports Ten 3",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=13"
+  },
+  {
+    "id": "14",
+    "logo": "https://i.postimg.cc/pLg7MFjg/Picsart-25-07-05-20-16-35-226.png",
+    "title": "Sony Sports Ten 4",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=14"
+  },
+  {
+    "id": "15",
+    "logo": "https://i.postimg.cc/q7yFJvXg/Picsart-25-07-05-20-16-55-389.png",
+    "title": "Sony Sports Ten 5",
+    "category": "Sports",
+    "link": "https://24sports-net.blogspot.com/?id=15"
   }
 ]
